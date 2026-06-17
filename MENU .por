@@ -7,7 +7,7 @@ programa {
       escreva("4 - sair\n")
       leia(opcao)
  
-
+// de preferencia não usar esta opção (opcional)
  se (opcao == 1)  {
   escreva ("voce escolheu cadastrar")
  }

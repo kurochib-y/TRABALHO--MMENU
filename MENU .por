@@ -1,6 +1,7 @@
 programa {
   funcao inicio() {
     inteiro opcao
+    escreva("MENU\n")
     escreva("1 - cadastrar\n")
     escreva("2 - editar\n")
      escreva("3 - excluir\n")

@@ -26,6 +26,7 @@ senao{
   }
 
 
+// de preferencia usar esse tipo , com caso contrario
 
  
   escolha(opcao) {
